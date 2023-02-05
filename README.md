@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 *# 💫 About Me:
 🔭 I’m currently working on React <br>🌱 I’m currently learning Java & Kotlin<br>⚡ I'm interested in math and Python.
 
@@ -22,4 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=SoofiBD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
