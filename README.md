@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 *# 💫 About Me:
-🔭 I’m currently working on React <br>🌱 I’m currently learning Java & Kotlin<br>⚡ I'm interested in math and Python.
+🔭 I’m currently working on Java <br>🌱 I’m currently learning Java & Kotlin<br>⚡ I'm interested in math and Python.
 
 
 ## 🌐 Socials:
