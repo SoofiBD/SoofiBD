@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*# 💫 About Me:
+*# 💫 About Me:<br>
 🔭 I’m currently working on Java <br>🌱 I’m currently learning Java & Kotlin<br>⚡ I'm interested in math and Python.
 
 
