@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 *# 💫 About Me:<br>
-🔭 I’m currently working on Java for Android Studio.<br>🌱 I’m currently learning on Kotlin and Jetpack Compose.<br>⚡ I'm interested in math and Python.
+🔭 I’m currently working on Java for Android Studio.<br>🌱 I'm currently developing my algorithm skills.<br>⚡ I'm interested in math and Python.
 
 
 ## 🌐 Socials:
