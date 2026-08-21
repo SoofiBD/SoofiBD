@@ -1,6 +1,6 @@
 # Hi there, I'm Burak! 👋
 
-> Researcher in 2D Materials & Nanophotonics | Android & Embedded Systems Developer
+> Researcher in 2D Materials & Nanophotonics | Embedded Systems Developer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoofiBD&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="45%" />
